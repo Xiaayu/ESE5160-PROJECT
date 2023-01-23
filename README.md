@@ -1,4 +1,4 @@
-# ESE5160-PROJECT
+# ESE5160-PROJECT Smart Watch
 ## Part 0. Components and System Design
 ### A. Components
 | Num  | Components|  Manufacturer Num |   Interface  | Opertating Voltage |
