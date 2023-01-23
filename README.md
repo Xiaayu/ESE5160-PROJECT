@@ -1,5 +1,9 @@
 # ESE5160-PROJECT Smart Watch
-## Part 0. Components and System Design
+
+## Description
+An IoT smartwatch for the safety of the elderly. It has an accelerometer, a heart rate detector, and a GPS locator. The children can monitor the basic health information of their parents (e.g., heart rate (HR), oxygen saturation (SpO2), respiration rate, and heart rate variability) and track their locations from the web UI. Moreover, they will also be notified if anything abnormal such as falling over by accident, is detected or the watch users send SOS messages.
+
+## Part 1. Components and System Design
 ### A. Components
 | Num  | Components|  Manufacturer Num |   Interface  | Opertating Voltage |
 |-----:|-----------|-------------------|--------------|--------------------|
